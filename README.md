@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Darnell Matthews Jr  
+💻 Computer Engineering Student @ UMBC | Passionate about Cybersecurity, Network Systems & Engineering  
 
-<!--
-**DarnellUMBC/DarnellUMBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 Studying **Computer Engineering** at **UMBC Honors College**  
+- 🔧 Currently enrolled in **C++ (CMSC 202) & Engineering (ENES 101)**  
+- 🏎️ Active in **UMBC IEEE & UMBC Racing**  
+- 💡 Interested in **Computer Hardware, Cybersecurity, Robotics, and Problem-Solving**  
 
-Here are some ideas to get you started:
+## 📂 Projects    
+🔹 [Personal projects coming soon!]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me  
+🔗 [LinkedIn](linkedin.com/in/darnell-matthews-072966253/)) | 📩 [Email](darnelm1@umbc.edu)  
+
