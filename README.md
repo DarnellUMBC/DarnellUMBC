@@ -11,5 +11,5 @@
 🔹 [Personal projects coming soon!]  
 
 ## 📫 Connect with Me  
-🔗 [LinkedIn](https://www.linkedin.com/in/darnell-matthews-072966253/) | 📩 [Email](mailto:darnelm1@umbc.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/darnell-matthews-072966253/) | 📩 [Email] darnelm1@umbc.edu  
 
